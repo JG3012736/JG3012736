@@ -20,4 +20,4 @@ Some of my best projects include, ________
 
 I am currently looking for early-career creative engineer and design engineering roles based in the NYC or CA region.
 
-Reach out to me at jenna.gomes.27@gmail.com!
+Reach out to me at jenna.gomes.27@gmail.com.
