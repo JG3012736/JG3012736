@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a fine artist, creative technologist, and user experience designer. I am naturally curious and love to dive deep into new topics. 
+I am a creative technologist, fine artist, and user experience designer. I am naturally curious and love to dive deep into new topics. 
 
 Some of my best projects include, a color exploration website linked here: https://github.com/JG3012736/color-explorer
 
