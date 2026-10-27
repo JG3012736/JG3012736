@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a fine artist, creative technologist, and user experience designer. I am naturally curious and love to dive deep into new topics. 
 
-Some of my best projects include, ________
+Some of my best projects include, a color exploration website linked here: https://github.com/JG3012736/color-explorer
 
 I am currently looking for early-career creative engineer and design engineering roles based in the NYC or CA region.
 
