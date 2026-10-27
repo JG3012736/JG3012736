@@ -1,4 +1,4 @@
-## Hi1
+## Hi! My name is Jenna.
 
 <!--
 **JG3012736/JG3012736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Jenna. I am a fine artist, creative technologist, and user experience designer. I am naturally curious and love to dive deep into new topics. 
+I am a fine artist, creative technologist, and user experience designer. I am naturally curious and love to dive deep into new topics. 
 
 Some of my best projects include, ________
 
