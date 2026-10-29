@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a creative technologist, fine artist, and user experience designer. I am naturally curious and love to dive deep into new topics. 
 
-Some of my best projects include, a color exploration website linked here: https://github.com/JG3012736/color-explorer
+I am a creative technologist, fine artist, and user experience designer. I am naturally curious and love to dive deep into new topics.
+
+Some of my best projects include:
+* [Shadow Puppets](https://github.com/JG3012736/shadow-puppets): a hand tracking exhibition piece shown at WQED with 100+ participants
+* [Mixed Media Generative Patterns with Indigo](https://github.com/JG3012736/indigo-truchet-tiles): generative p5.js tiles turned into a screen printed, indigo dyed fabric
+* [Color Explorer](https://github.com/JG3012736/color-explorer): a color exploration website
+* [PixelArt](https://github.com/JG3012736/pixelart): a pixel art editor built in Python
 
 I am currently looking for early-career creative engineer and design engineering roles based in the NYC or CA region.
 
